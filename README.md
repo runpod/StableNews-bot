@@ -1,2 +1,2 @@
 # StableNews-bot
-Mini project showcasing the use of RunPod Endpoints.
+Mini project showcasing the use of Runpod Endpoints.
